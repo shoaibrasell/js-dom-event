@@ -3,7 +3,7 @@
 
 //option 2: add onclick function
 //use this one for our project
-function makepink(){
+function -(){
     document.body.style.background = 'pink';
 }
 //option 3: 
@@ -20,7 +20,7 @@ function makeBlue(){
      yellowButton.onclick = function yellowButton() {
      document.body.style.backgroundColor = "yellow";
     }
-
+rr
         const cyanButton = document.getElementById('make-cyan');
         cyanButton.addEventListener('click', makecyan)
 
